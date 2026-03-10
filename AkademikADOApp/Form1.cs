@@ -40,7 +40,7 @@ namespace AkademikADOApp
                 MessageBox.Show("Koneksi Gagal : " + ex.Message, "WARNING", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-        private void label1_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e) //Tambahkan komentar penjelasan di fungsi label1_Click
         {
             try
             {
