@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace AkademikADOApp 
 {
-
+     
 
     public partial class Form1 : Form 
     {
