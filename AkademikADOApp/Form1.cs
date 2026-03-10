@@ -9,7 +9,7 @@ namespace AkademikADOApp
 
     public partial class Form1 : Form 
     {
-
+         
         static string connectionString = "Server=localhost;Database=DBAkademikADO;Uid=root;Pwd=;";
         MySqlConnection conn;
         public Form1()
