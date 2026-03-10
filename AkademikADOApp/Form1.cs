@@ -13,7 +13,7 @@ namespace AkademikADOApp
         static string connectionString = "Server=localhost;Database=DBAkademikADO;Uid=root;Pwd=;";
         MySqlConnection conn;
         public Form1()
-        {
+        { 
             InitializeComponent();
         }
 
