@@ -3,7 +3,7 @@ using System;
 using System.Windows.Forms; 
 
 
-namespace AkademikADOApp
+namespace AkademikADOApp 
 {
 
 
