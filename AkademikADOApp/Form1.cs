@@ -29,9 +29,9 @@ namespace AkademikADOApp
                 conn.Open();
 
                 label1.Text = "Status : Database Connected";
-                MessageBox.Show("Koneksi ke Database Berhasil!", "INFO", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Koneksi ke Database Berhasil!", "INFO", MessageBoxButtons.OK, MessageBoxIcon.Information); //Ubah MessageBoxIcon.Information jadi MessageBoxIcon.Asterisk
 
-                
+
                 //conn.Close();
                 //label1.Text = "Status : Database Disconnected";
             }
